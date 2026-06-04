@@ -1,0 +1,1 @@
+# Contributing Guide\n\nContributions are welcome!
