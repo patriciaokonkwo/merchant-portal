@@ -1,6 +1,1 @@
-# Overview
-
-This document provides an overview of the merchant portal, including its features and functionalities.
-
-## Links
-- [Overview Documentation](https://example.com/overview)
+# Overview\n\nThis document provides an overview of the merchant portal, including its features and functionalities.\n\n## Links\n- [Overview Documentation](https://example.com/overview)\n\n## ARIA Label Info\n\nThis section includes information about ARIA labels used in the merchant portal for accessibility purposes.
