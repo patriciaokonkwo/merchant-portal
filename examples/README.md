@@ -1,0 +1,1 @@
+# Examples\n\nThis folder contains example files.
